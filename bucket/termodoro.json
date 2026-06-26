@@ -1,0 +1,15 @@
+{
+    "version": "0.2.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hrushik98/termodoro/releases/download/v0.2.2/termodoro_0.2.2_windows_amd64.zip",
+            "bin": [
+                "termodoro.exe"
+            ],
+            "hash": "7b85866750abb640e84152916059a17f44bbd3dadc1ba25612af22345dfe4ddb"
+        }
+    },
+    "homepage": "https://github.com/hrushik98/termodoro",
+    "license": "MIT",
+    "description": "Termodoro is a terminal-based Pomodoro timer"
+}
